@@ -15,8 +15,9 @@ Trying Some Commands
 ![Image](VS2.png)
 
 You enter the password and then terminal prints this:
+![Image](VS3.png)
+3) The third step is to try some of the commands. I tried command "ls -lat". The result looked should look like this:
 
-3) The third step
 
 Remotely Connecting!
 Trying Some Commands
