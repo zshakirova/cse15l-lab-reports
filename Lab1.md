@@ -9,7 +9,7 @@ Trying Some Commands
        Lab 1 report Zhamilya Shakirova
 1) First step that I had to take was to install Visual Studio code. However, during the last quarter I was enrolled in CSE 8B and already installed it in the beggining of Winter quarter. The only thing I need to do is to open VS code and new terminal.
 
-![Image](VS code screenshot.png)
+![Image](VS.png)
 
 
 
