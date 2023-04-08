@@ -1,4 +1,5 @@
       Lab report 1 Zhamilya Shakirova
+
 1) First step that I had to take was to install Visual Studio code. However, during the last quarter I was enrolled in CSE 8B and had already installed the app in the beggining of Winter quarter. The only thing I have to do now is to open VS code and new terminal.
 
 ![Image](VS.png)
