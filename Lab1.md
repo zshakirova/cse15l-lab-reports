@@ -18,7 +18,7 @@
 You enter the password and then terminal prints this:
 ![Image](VS3.png)
 3. The third step is to try some of the commands. I tried command "ls -lat". The result looked should look like this:
-
+![Image](lslat.png)
 ![Image](VS4.png)
 
 Well done! Now, you knoiw how to use VS code, remotely connect, and use commands!
