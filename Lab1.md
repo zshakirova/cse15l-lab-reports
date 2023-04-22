@@ -10,6 +10,7 @@
 3. In VS code you enter your unique code that loooks like this:"ssh cs15lsp23zz@ieng6.ucsd.edu" in the terminal. However, you ned to change "zz" to the unique letters that are attached to your account. To find it you need to go to this website: https://sdacs.ucsd.edu/~icc/index.php, enter your account name, PID. There you'll see "cs15lsp23zz".
 
 ![Image](LookupCS.png)
+![Image](UniqueCode.png)
 5.  Since it wasn't my first time it printed "(cs15lsp23zz@ieng6.ucsd.edu) Password:". But when it's your first time remotely connecting, the computer will print "The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. Are you sure you want to continue connecting (yes/no/[fingerprint])? ". You should answer yes.
   
 ![Image](VS2.png)
