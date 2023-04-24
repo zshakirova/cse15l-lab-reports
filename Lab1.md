@@ -22,7 +22,7 @@ You enter the password and then terminal prints this:
 ![Image](VS4.png)
 The command "ls -lat" shows a list of files and folders in the current location, with additional information and sorted by the latest changes made. The most recently modified files or folders will be displayed first. You can also try other commands!
 
-![Image](lsa.png)
+![Image](lsA.png)
 ls -a
 The command "ls -a" shows a list of all files and folders in the current location, including the ones that are hidden and not displayed by default. Hidden files and folders have names that start with a dot (.) symbol.
 cd ~
