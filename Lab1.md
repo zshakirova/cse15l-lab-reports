@@ -33,7 +33,7 @@ The command "cd" with no argument changes the current working directory to the h
 - ls <directory> where <directory> is /home/linux/ieng6/cs15lsp23/cs15lsp23abc, where the abc is one of the other group members’ username
 The "ls" command helps you to see what files and folders are inside a particular folder. In this case, the folder we want to see is called cs15lsp23abc and it is located inside other folders called cs15lsp23, ieng6, and linux.    
       
-- cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+- cp /home/linux/ieng6/cs15lsp23/public/hello.txt 
 The cp command is used to make a copy of a file or folder. In this case, the command is copying a file called hello.txt from the directory /home/linux/ieng6/cs15lsp23/public/ to the home directory, represented by the tilde (~).
 
 So, running this command will make a copy of the file hello.txt and place it in your home directory.
