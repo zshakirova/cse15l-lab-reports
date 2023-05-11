@@ -16,7 +16,7 @@ Here are interesting command-line options for "find":
    ./technical/code/script.py:print("Hello Python!")
   
   This command will search for all files with a ".py" extension in the "./technical" directory and its subdirectories, and then search each file for the word "python". This option can be useful when you want to perform an operation on all the files that match the search criteria. The website I used: https://www.gnu.org/software/findutils/manual/html_node/find_html/Executing-Commands.html
-3. "-size" option: This option allows you to search for files based on their size.
+ 3. "-size" option: This option allows you to search for files based on their size.
    Example:
    $ find ./technical -type f -size +1M
    ./technical/code/script.py
