@@ -3,7 +3,7 @@ I chose the command `find` for this task.
 
 Here are interesting command-line options for `find`:
 
-   1. `-mtime` option: This option allows you to search for files based on their modification time.
+   (1) `-mtime` option: This option allows you to search for files based on their modification time.
    
    Example 1:
 
@@ -17,7 +17,7 @@ Here are interesting command-line options for `find`:
   
    This command will search for all files in the `./technical` directory and its subdirectories that have been modified within the last 7 days. This option can be useful when you want to find recently modified files. The website I used: https://www.gnu.org/software/findutils/manual/html_node/find_html/Modified-Time.html
 
-   2. `-exec` option: This option allows you to execute a command on each file that matches the search criteria.
+   (2) `-exec` option: This option allows you to execute a command on each file that matches the search criteria.
    
    Example 1:
 
@@ -35,7 +35,7 @@ Here are interesting command-line options for `find`:
   
    This command will search for all files with a `.py` extension in the `./technical` directory and its subdirectories, and then search each file       for the word "python". This option can be useful when you want to perform an operation on all the files that match the search criteria. The          website I used: https://www.gnu.org/software/findutils/manual/html_node/find_html/Executing-Commands.html
 
-   3.  `-size` option: This option allows you to search for files based on their size.
+   (3)  `-size` option: This option allows you to search for files based on their size.
    
       Example 1:
 
@@ -49,7 +49,7 @@ Here are interesting command-line options for `find`:
    
       This command will search for all files larger than 1 megabyte in the `./technical` directory and its subdirectories. This option can be useful       when you want to find large files that are taking up disk space. The website I used:                          
       https://www.gnu.org/software/findutils/manual/html_node/find_html/Size.html
-   4. `-type` option: This option allows you to search for files of a specific type.
+   (4) `-type` option: This option allows you to search for files of a specific type.
       Example 1:
    
       Command: `find ./technical -type f -name "*.py"`
