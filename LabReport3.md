@@ -49,17 +49,20 @@ Here are interesting command-line options for `find`:
    
    This command will search for all files larger than 1 megabyte in the `./technical` directory and its subdirectories. This option can be useful       when you want to find large files that are taking up disk space. The website I used:                          
       https://www.gnu.org/software/findutils/manual/html_node/find_html/Size.html
+   
+   
+   
    (4) `-type` option: This option allows you to search for files of a specific type.
       
-    Example 1:
+   Example 1:
    
-    Command: `find ./technical -type f -name "*.py"`
-    Output: `./technical/code/script.py`
+   Command: `find ./technical -type f -name "*.py"`
+   Output: `./technical/code/script.py`
 
-    Example 2:
+   Example 2:
 
-    Command: `find ./technical -type d -name "docs"`
-    Output: `./technical/docs`
+   Command: `find ./technical -type d -name "docs"`
+   Output: `./technical/docs`
   
     This command will search for all files with a `.py` extension in the `./technical` directory and its subdirectories. This option can be useful     when you want to search for files of a specific type and exclude directories. The website I used:        https://www.gnu.org/software/findutils/manual/html_node/find_html/Type.html
 
