@@ -64,7 +64,7 @@ Example 2:
    Command: `find ./technical -type d -name "docs"`
    Output: `./technical/docs`
   
- This command will search for all files with a `.py` extension in the `./technical` directory and its subdirectories. This option can be useful     when you want to search for files of a specific type and exclude directories. The website I used:        https://www.gnu.org/software/findutils/manual/html_node/find_html/Type.html
+This command will search for all files with a `.py` extension in the `./technical` directory and its subdirectories. This option can be useful     when you want to search for files of a specific type and exclude directories. The website I used:        https://www.gnu.org/software/findutils/manual/html_node/find_html/Type.html
 
 
 
