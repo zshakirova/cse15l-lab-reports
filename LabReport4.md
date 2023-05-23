@@ -26,7 +26,7 @@ Clone your fork of the repository from your Github account
 
  ![Image](screen5.png)
 
- ![Image](screen6.png)
+
 Step 6:
 Run the tests, demonstrating that they fail
 
