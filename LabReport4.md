@@ -8,7 +8,9 @@ Log into ieng6
   ![Image](screen1.png)
   
   ![Image](screen2.png)
-  Keys pressed: `ssh<space>cs15lsp23zz@ieng6.ucsd.edu<enter>`, where zz is unique numbers you can find in your github profile 
+  
+  
+  Then we need to log in. Keys pressed: `ssh<space>cs15lsp23zz@ieng6.ucsd.edu<enter>`, where zz is unique numbers you can find in your github         profile 
   ![Image](screen3.png)
  
   
