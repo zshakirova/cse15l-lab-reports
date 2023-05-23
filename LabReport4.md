@@ -65,8 +65,8 @@ I typed `changed<space>line<space>44<space>index1<space>to<space>index2<enter>`
 then to exit and save the commit press `:wq<enter>`
 
 ![Image](screen8.png)
-To push resulting change i pressed `git<space>push<enter>`
+To push resulting change I pressed `git<space>push<enter>`
 ![Image](screen10.png)
 
-The result:
+Here is the screenshot of my repository that shows the change was successful, it states `Zhamilya Shakirova changed the line index1 to index2`:
 ![Image](screen11.png)
