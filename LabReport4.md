@@ -52,7 +52,7 @@ Run the tests, demonstrating that they now succeed
 
 
 Keys pressed: `bash<space>test.sh<enter>`
-![Image](screen8.png)
+
 ![Image](screen7.png)
 
 Step 9:
@@ -61,5 +61,6 @@ Keys pressed: `git<space>commit<space>ListExamples.java<enter>`, I typed `change
 then to exit and save the commit press `:wq<enter>`
 To push resulting change i pressed `git<space>push<enter>`
 ![Image](screen9.png)
+![Image](screen8.png)
 ![Image](screen10.png)
 ![Image](screen11.png)
