@@ -27,7 +27,7 @@ Clone your fork of the repository from your Github account
 
  ![Image](screen5.png)
 
-Summary:  Clone your fork of the repository from your Github account
+Summary:  Clone your fork of the repository from your Github account.
 The user navigates to their GitHub repository, selects the SSH option, and copies the repository link. They then use the terminal to clone their repository by running the "git clone" command followed by the copied link.
 
 Step 6:
@@ -40,8 +40,9 @@ To do this you need to go inside the lab7 and then run tests.
 
  ![Image](screen6.png)
 
-Summary: Run the tests, demonstrating that they fail
+Summary: Run the tests, demonstrating that they fail.
 The user changes the directory to the cloned repository and executes a test script ("test.sh") by running the "bash" command followed by "test.sh". The purpose is to showcase that the tests currently fail.
+
 
 
 Step 7:
@@ -52,7 +53,7 @@ Keys pressed: `vim<space>ListExamples.java<enter>`
   
   
   `/change<enter>jllxi2<escape>:wq<enter>`
-Summary: Edit the code file to fix the failing test
+Summary: Edit the code file to fix the failing test.
 Using the text editor Vim, the user opens the "ListExamples.java" file. They make necessary changes to address the failing test(s), specifically modifying "index1" to "index2". They save and exit the editor.
 
 Step 8:
@@ -63,7 +64,7 @@ Keys pressed: `bash<space>test.sh<enter>`
 
 ![Image](screen7.png)
 Summary: 
-Run the tests, demonstrating that they now succeed
+Run the tests, demonstrating that they now succeed.
 The user runs the test script ("test.sh") again using the "bash" command. This time, the tests should pass to demonstrate the successful fix made in the previous step.
 
 Step 9:
@@ -82,7 +83,7 @@ To push resulting change I pressed `git<space>push<enter>`
 Here is the screenshot of my repository that shows the change was successful, it states `Zhamilya Shakirova changed the line index1 to index2`:
 ![Image](screen11.png)
 
-Summary: Commit and push the resulting change to your Github account
+Summary: Commit and push the resulting change to your Github account.
 The user performs a Git commit of the modified "ListExamples.java" file with a commit message. They then push the commit to their GitHub repository using the "git push" command. A screenshot is provided as evidence of the successful change in the repository.
 
 Each step contributes to the process of logging in, cloning a repository, running and fixing tests, and finally committing and pushing the changes to GitHub.
