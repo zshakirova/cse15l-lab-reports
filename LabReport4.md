@@ -44,19 +44,20 @@ Edit the code file to fix the failing test
 
 Keys pressed: `vim<space>ListExamples.java<enter>`
   `/change<enter>jllxi2<escape>:wq<enter>`
-  ![Image](screen8.png)
+
 Step 8:
 Run the tests, demonstrating that they now succeed
 
 
 Keys pressed: `bash<space>test.sh<enter>`
-
+![Image](screen8.png)
 ![Image](screen7.png)
-![Image](screen9.png)
+
 Step 9:
 Commit and push the resulting change to your Github account (you can pick any commit message!)
 Keys pressed: `git<space>commit<space>ListExamples.java<enter>`, I typed `changed<space>line<space>44<space>index1<space>to<space>index2<enter>` 
 then to exit and save the commit press `:wq<enter>`
 To push resulting change i pressed `git<space>push<enter>`
+![Image](screen9.png)
 ![Image](screen10.png)
 ![Image](screen11.png)
