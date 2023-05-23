@@ -43,6 +43,8 @@ Edit the code file to fix the failing test
 
 
 Keys pressed: `vim<space>ListExamples.java<enter>`
+  
+  
   `/change<enter>jllxi2<escape>:wq<enter>`
 
 Step 8:
