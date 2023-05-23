@@ -1,7 +1,12 @@
 Step 4:
 Log into ieng6
+
+
   Open the VS code and new terminal. 
-  ![Image](screen1.png) 
+  
+  
+  ![Image](screen1.png)
+  
   ![Image](screen 2.png)
   Keys pressed: `ssh<space>cs15lsp23zz@ieng6.ucsd.edu<enter>`, where zz is unique numbers you can find in your github profile 
   ![Image](screen3.png)
