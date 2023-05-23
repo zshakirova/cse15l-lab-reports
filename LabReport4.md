@@ -29,19 +29,29 @@ Clone your fork of the repository from your Github account
  ![Image](screen6.png)
 Step 6:
 Run the tests, demonstrating that they fail
+
+
 To do this you need to go inside the lab7 and then run tests.
-  Keys pressed: `cd<space>lab7<enter>`
+ Keys pressed: `cd<space>lab7<enter>`
 `bash<space>test.sh<enter>`
-![Image](screen7.png)
+
+ ![Image](screen6.png)
+
 
 Step7:
 Edit the code file to fix the failing test
+
+
 Keys pressed: `vim<space>ListExamples.java<enter>`
   `/change<enter>jllxi2<escape>:wq<enter>`
   ![Image](screen8.png)
 Step 8:
 Run the tests, demonstrating that they now succeed
-`bash<space>test.sh<enter>`
+
+
+Keys pressed: `bash<space>test.sh<enter>`
+
+![Image](screen7.png)
 ![Image](screen9.png)
 Step 9:
 Commit and push the resulting change to your Github account (you can pick any commit message!)
