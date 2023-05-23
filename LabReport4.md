@@ -1,7 +1,7 @@
 Step 4:
 Log into ieng6
   Open the VS code and new terminal. //screenshot
-  Type: ssh cs15lsp23zz@ieng6.ucsd.edu in the terminal, where zz is unique numbers you can find in your github profile //screenshot 
+  Keys pressed: `ssh<space>cs15lsp23zz@ieng6.ucsd.edu<enter>`, where zz is unique numbers you can find in your github profile //screenshot 
   
 
 Step 5:
