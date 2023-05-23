@@ -53,6 +53,8 @@ Keys pressed: `vim<space>ListExamples.java<enter>`
   
   
   `/change<enter>jllxi2<escape>:wq<enter>`
+
+
 Summary: Edit the code file to fix the failing test.
 Using the text editor Vim, the user opens the "ListExamples.java" file. They make necessary changes to address the failing test(s), specifically modifying "index1" to "index2". They save and exit the editor.
 
