@@ -38,7 +38,7 @@ To do this you need to go inside the lab7 and then run tests.
  ![Image](screen6.png)
 
 
-Step7:
+Step 7:
 Edit the code file to fix the failing test
 
 
@@ -57,10 +57,16 @@ Keys pressed: `bash<space>test.sh<enter>`
 
 Step 9:
 Commit and push the resulting change to your Github account (you can pick any commit message!)
-Keys pressed: `git<space>commit<space>ListExamples.java<enter>`, I typed `changed<space>line<space>44<space>index1<space>to<space>index2<enter>` 
-then to exit and save the commit press `:wq<enter>`
-To push resulting change i pressed `git<space>push<enter>`
+Keys pressed: `git<space>commit<space>ListExamples.java<enter>`
+
 ![Image](screen9.png)
+
+I typed `changed<space>line<space>44<space>index1<space>to<space>index2<enter>` 
+then to exit and save the commit press `:wq<enter>`
+
 ![Image](screen8.png)
+To push resulting change i pressed `git<space>push<enter>`
 ![Image](screen10.png)
+
+The result:
 ![Image](screen11.png)
