@@ -15,12 +15,16 @@ Log into ieng6
  
   
 
-Step 5:
+Step 5: 
 Clone your fork of the repository from your Github account
- In the github when you open your repository, you press `code` and then press `SSH`. You'll see the link that you need to copy and paste in the terminal. 
+
+
+ In the github when you open your repository, you press `code` and then press `SSH`. You'll see the link that you need to copy and paste in the       terminal. 
  ![Image](screen4.png)
+ 
+  After this we need to clone the repository. Keys pressed in terminal: `git<space>clone<space>git@github.com:zshakirova/lab7.git<enter>`
+
  ![Image](screen5.png)
- Keys pressed in terminal: `git<space>clone<space>git@github.com:zshakirova/lab7.git<enter>`
 
  ![Image](screen6.png)
 Step 6:
