@@ -33,5 +33,5 @@ Code and terminal after change:
  
 
 Bash file:
-![Image](second.png)
+![Image](third.png)
 
