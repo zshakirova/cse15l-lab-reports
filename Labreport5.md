@@ -29,7 +29,8 @@ To fix the bug, you need to validate the command-line arguments and provide a pr
 
 
 Code and terminal after change:
-![Image](third.png)
+![Image](fifth.png)
+ 
 
 Bash file:
 ![Image](second.png)
