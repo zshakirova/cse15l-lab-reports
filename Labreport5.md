@@ -8,8 +8,10 @@ Post
 
 
 *What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?*
+
 I'm using Mac computer, VS code
 Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
+
 When I try to run my program, the terminal prints: "Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
  at Calc.main(Calc.java:8)"
 
