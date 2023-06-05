@@ -7,15 +7,17 @@ In a couple of sentences, describe something you learned from your lab experienc
 Post
 
 
-*What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?*
+*What environment are you using (computer, operating system, web browser, terminal/editor, and so on)?
 
 I'm using Mac computer, VS code
-Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
+
+
+*Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
 
 When I try to run my program, the terminal prints: "Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
  at Calc.main(Calc.java:8)"
 
-Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
+*Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
 
 I just tried running, there were no other commands in the terminal before I wrote javac Calc.java<enter> java Calc
 
