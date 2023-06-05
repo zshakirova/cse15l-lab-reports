@@ -1,9 +1,5 @@
 Part 1 – Debugging Scenario
 
-
-Part 2 – Reflection
-In a couple of sentences, describe something you learned from your lab experience in the second half of this quarter that you didn’t know before. It could be a technical topic we addressed specifically, something cool you found out on your own building on labs, something you learned from a tutor or classmate, and so on. It doesn’t have to be specifically related to a lab writeup, we just want to hear about cool things you learned!
-
 Post
 
 
@@ -34,4 +30,9 @@ Code and terminal after change:
 
 Bash file:
 ![Image](third.png)
+
+ 
+ Part 2 – Reflection
+
+ It was very interesting learning how to use VIM. For me it was totally new thing and I was excited how to learn using it. I also liked that there was a tutoring document, which helped me to understand all the details
 
