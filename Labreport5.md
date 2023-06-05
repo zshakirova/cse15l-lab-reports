@@ -13,7 +13,7 @@ When I try to run my program, the terminal prints: "Exception in thread "main" j
 
 Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
 
-I just tried running, there were no other commands in the terminal before I wrote javac Calc.java
+I just tried running, there were no other commands in the terminal before I wrote javac Calc.java<enter> java Calc
 
 ![Image](first.png)
 Responce of TA: 
